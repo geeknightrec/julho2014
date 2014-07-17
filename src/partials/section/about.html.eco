@@ -1,0 +1,13 @@
+<h2 class="section-title"><%= @labels['about'] %></h2>
+<p itemprop="description">
+O Geek Night de <b>Julho</b> está chegando!
+<br>  
+<br>
+Dessa vez estaremos recebendo aqui na ThoughtWorks o <b>Danilo Sato</b> - desenvolvedor de software há mais de 12 anos, trabalha com <b>Métodos Ágeis</b> há dez, e é consultor da ThoughtWorks há seis anos, atuando nos mais diversos papéis: desenvolvedor, agile coach, arquiteto, DevOps, treinador e líder técnico em projetos Ruby e Java no Brasil, EUA e na Inglaterra.
+<br>  
+<br>  
+O Geek Night Recife começou com a intenção de ser um encontro informal com o objetivo de discutir sobre tecnologia. O evento vem cada vez mais se firmando como um espaço para produção e compartilhamento de conhecimento. Tendo a idéia de ser um espaço democrático e aberto, a Geek Night vem recebendo palestras, práticas e fóruns, tendo como assunto os mais diversos temas relacionados ao universo geek.
+<br>  
+<br>  
+Não deixe de conferir o blog do Geek Night: http://geeknightrecife.github.io/
+</p>
